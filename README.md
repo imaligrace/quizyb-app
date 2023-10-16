@@ -10,7 +10,7 @@ With QuizyB!, quiz builders can design multiple-choice quizzes with specific que
 
 QuizyB! is accessible online via the following link: [QuizyB! App](https://quizyb-app.vercel.app/)
 
-<!-- PLACEHOLDER FOR NOW, PLS CHANGE ONCE DEPLOYED -->
+The App User Interface works best in 1920x1080x 15inch screen in 150% scale
 
 ## Usage
 
